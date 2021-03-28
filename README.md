@@ -1,5 +1,5 @@
 ### Hi, I am Gabriel 👋
-- 🔭 I’m currently working on Sokoban game project.
+- 🔭 I’m currently working on <a href="https://github.com/Zavioer/Sokoban">Sokoban</a> game project.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Instagram.
 - 🤔 I’m looking for help with better understanding JS.
